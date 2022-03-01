@@ -1,4 +1,7 @@
-### Hi there 👋
+## Statistics
+
+![](https://github.com/br3zn/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/br3zn/github-stats/blob/master/generated/languages.svg)
 
 <!--
 **br3zn/br3zn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
