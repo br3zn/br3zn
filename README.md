@@ -1,10 +1,13 @@
+# 👋🏻 Hi, i'm Timo
+| _Welcome to my GitHub profile. I'm a junior web developer currently living in south germany 🥨._
+
 ## Statistics
 ![](https://github.com/br3zn/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/br3zn/github-stats/blob/master/generated/languages.svg)
 
 ## Tech Stack
-- 🛠 HTML5, CSS3, JavaScript, React, Next.js, Apollo GraphQL
-- ⚙️ node.js, VCS Workflow (Git / GitHub)
+- 🛠 TypeScript, JavaScript, React, Next.js, Apollo GraphQL, HTML5, CSS3
+- ⚙️ node.js, VCS Workflow (Git / GitHub), ESLint
 - 🔬 Cypress, Jest, Postman
 
 ## Tools
