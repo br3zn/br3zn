@@ -6,7 +6,8 @@
 ![](https://github.com/br3zn/github-stats/blob/master/generated/languages.svg)
 
 ## Tech Stack
-- 🛠 TypeScript, JavaScript, React, Next.js, Apollo GraphQL, HTML5, CSS3
+- 🛠 TypeScript, JavaScript, React, Next.js, GraphQL, HTML5, CSS3
+- 💅 tailwindCSS, twin, emotion
 - ⚙️ node.js, VCS Workflow (Git / GitHub), ESLint
 - 🔬 Cypress, Jest, Postman
 
@@ -14,10 +15,12 @@
 - WebStorm IDE
 - Figma
 - Framer
+- Adobe Photoshop
 - Adobe Illustrator
+- Blender
 
 ## Get in touch
-Follow me on [LinkedIn](https://www.linkedin.com/in/timo-h%C3%B6hlich-br3zn/).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/timo-h%C3%B6hlich-br3zn/).
 
 <!--
 **br3zn/br3zn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
