@@ -1,9 +1,8 @@
-# 👋🏻 Hi, i'm Timo
-| _Welcome to my GitHub profile. I'm a junior web developer currently living in south germany 🥨._
+# 👋🏻 Hi, I'm Timo
+> _Welcome to my GitHub profile. I'm a junior web developer currently living in south germany 🥨._
 
 ## Statistics
-![](https://github.com/br3zn/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/br3zn/github-stats/blob/master/generated/languages.svg)
+![](/github-metrics.svg)
 
 ## Tech Stack
 - 🛠 TypeScript, JavaScript, React, Next.js, GraphQL, HTML5, CSS3
