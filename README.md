@@ -2,7 +2,7 @@
 > _Welcome to my GitHub profile. I'm a junior web developer currently living in south germany 🥨._
 
 ## Statistics
-![](/github-metrics.svg)
+<img align="center" src="https://github.com/br3zn/metrics/blob/master/github-metrics.svg" alt="Metrics" width="400">
 
 ## Tech Stack
 - 🛠 TypeScript, JavaScript, React, Next.js, GraphQL, HTML5, CSS3
