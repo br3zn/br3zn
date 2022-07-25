@@ -1,10 +1,10 @@
 # 👋🏻 Hi, I'm Timo
-> _Welcome to my GitHub profile. I'm a junior web developer currently living in south germany 🥨._
+> _I'm a junior web developer currently living in south germany 🥨._
 
 
 ## Tech Stack
 - 🛠 TypeScript, JavaScript, React, Next.js, GraphQL, HTML5, CSS3
-- 💅 tailwindCSS, twin, emotion
+- 💅 styled-components, tailwindCSS
 - ⚙️ node.js, VCS Workflow (Git / GitHub), ESLint
 - 🔬 Cypress, Jest, Postman
 
