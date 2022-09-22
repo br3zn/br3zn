@@ -3,13 +3,13 @@
 
 
 ## Tech Stack
-- 🛠 TypeScript, JavaScript, React, Next.js, GraphQL, HTML5, CSS3
-- 💅 styled-components, tailwindCSS
+- 🛠 JavaScript, React, Next.js, GraphQL, HTML5, PHP
+- 💅 CSS-in-JS (styled-components), CSS3
 - ⚙️ node.js, VCS Workflow (Git / GitHub), ESLint
 - 🔬 Cypress, Jest, Postman
 
 ## Tools
-- WebStorm IDE
+- WebStorm / PHPStorm IDE
 - Figma
 - Framer
 - Adobe Photoshop
