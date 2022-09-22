@@ -4,8 +4,8 @@
 
 ## Tech Stack
 - 🛠 JavaScript, React, Next.js, GraphQL, HTML5, PHP
-- 💅 CSS-in-JS (styled-components), CSS3
-- ⚙️ node.js, VCS Workflow (Git / GitHub), ESLint
+- 💅 CSS-in-JS (styled-components), CSS3, SASS
+- ⚙️ node.js, VCS Workflow (Git)
 - 🔬 Cypress, Jest, Postman
 
 ## Tools
